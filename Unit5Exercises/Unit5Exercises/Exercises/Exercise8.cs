@@ -26,15 +26,13 @@ namespace ExerciseUnit5
 
         public void FillArray()
         {
-            int count = 0;
-
-            foreach (int element in example)
+          
+            for (int count = 0; count < example.Length ;count++)
             {
                 example[count] = count;
 
                 Console.WriteLine("The position {0} is equal to {1}", count, example[count]);
 
-                count++;
             }
 
         }
