@@ -1,0 +1,13 @@
+C:\GitHub\Unit5\Unit5Exercises\Unit5Exercises\bin\Debug\netcoreapp3.1\Unit5Exercises.exe
+C:\GitHub\Unit5\Unit5Exercises\Unit5Exercises\bin\Debug\netcoreapp3.1\Unit5Exercises.deps.json
+C:\GitHub\Unit5\Unit5Exercises\Unit5Exercises\bin\Debug\netcoreapp3.1\Unit5Exercises.runtimeconfig.json
+C:\GitHub\Unit5\Unit5Exercises\Unit5Exercises\bin\Debug\netcoreapp3.1\Unit5Exercises.runtimeconfig.dev.json
+C:\GitHub\Unit5\Unit5Exercises\Unit5Exercises\bin\Debug\netcoreapp3.1\Unit5Exercises.dll
+C:\GitHub\Unit5\Unit5Exercises\Unit5Exercises\bin\Debug\netcoreapp3.1\Unit5Exercises.pdb
+C:\GitHub\Unit5\Unit5Exercises\Unit5Exercises\obj\Debug\netcoreapp3.1\Unit5Exercises.csprojAssemblyReference.cache
+C:\GitHub\Unit5\Unit5Exercises\Unit5Exercises\obj\Debug\netcoreapp3.1\Unit5Exercises.AssemblyInfoInputs.cache
+C:\GitHub\Unit5\Unit5Exercises\Unit5Exercises\obj\Debug\netcoreapp3.1\Unit5Exercises.AssemblyInfo.cs
+C:\GitHub\Unit5\Unit5Exercises\Unit5Exercises\obj\Debug\netcoreapp3.1\Unit5Exercises.csproj.CoreCompileInputs.cache
+C:\GitHub\Unit5\Unit5Exercises\Unit5Exercises\obj\Debug\netcoreapp3.1\Unit5Exercises.dll
+C:\GitHub\Unit5\Unit5Exercises\Unit5Exercises\obj\Debug\netcoreapp3.1\Unit5Exercises.pdb
+C:\GitHub\Unit5\Unit5Exercises\Unit5Exercises\obj\Debug\netcoreapp3.1\Unit5Exercises.genruntimeconfig.cache
