@@ -9,7 +9,7 @@ namespace ExerciseUnit5
         int[] example;
         public Exercise8()
         {
-            example = new int[5];
+      
         }
 
         public void showStatement()
